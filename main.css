@@ -242,6 +242,7 @@ footer {
       flex-direction: column;
   }
 }
+<<<<<<< Updated upstream
 @keyframes rotation {
   0% {
       transform: rotate(0);
@@ -257,3 +258,6 @@ footer {
   height: 100px;
   animation: rotation 10s infinite linear;
 }
+=======
+
+>>>>>>> Stashed changes
