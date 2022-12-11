@@ -210,8 +210,14 @@ footer {
   .about {
       flex-direction: column-reverse;
       padding: 50px 10px;
+      position: relative;
   }
-
+  .orb-canvas {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    right: 0;
+ }
   .about h1 {
       font-size: 36px;
       line-height: 40px;
